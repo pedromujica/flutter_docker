@@ -37,6 +37,8 @@ The steps for using this Docker Container are as follows:
 
 7. Now, you can **build**, **test** and **run** Flutter apps in the container.
 
+TUTORIAL: https://blog.codemagic.io/how-to-dockerize-flutter-apps/
+
 # License
 
 Copyright (c) 2020 Souvik Biswas
